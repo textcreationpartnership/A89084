@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercvrivs pacificvs, or, Vox tvrtvris. A dove in this deluge of division sent from Gods arke, to present a peace-offering upon the altar of Iehovah Shalom, humbly proposing a divine direction for composing of controversies according to Gods revealed will. by E. M. Gent.</title>
+            <author>E. M., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89084</idno>
+            <idno type="STC">Wing M18</idno>
+            <idno type="STC">Thomason E35_11</idno>
+            <idno type="STC">ESTC R11788</idno>
+            <idno type="EEBO-CITATION">99859131</idno>
+            <idno type="PROQUEST">99859131</idno>
+            <idno type="VID">111197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111197)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercvrivs pacificvs, or, Vox tvrtvris. A dove in this deluge of division sent from Gods arke, to present a peace-offering upon the altar of Iehovah Shalom, humbly proposing a divine direction for composing of controversies according to Gods revealed will. by E. M. Gent.</title>
+                  <author>E. M., Gent.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 4 in the imprint date is crossed out and altered to 1643; "March 2nd 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111197:1" rendition="simple:additions"/>
+            <p>
+               <hi>MERCVRIVS PACIFICVS,</hi> OR, <hi>VOX TVRTVRIS.</hi> A Dove in this Deluge of Diviſion Sent from GODS ARKE, TO Preſent a Peace-Offering upon the Altar of IEHOVAH SHALOM, Humbly Propoſing A Divine Direction for Compoſing of Contro<g ref="char:EOLhyphen"/>verſies according to Gods Revealed will.</p>
+            <q>
+               <bibl>Prov. 18. 18.</bibl>
+               <p>Contentiones ſubmovet ſors &amp; inter Robuſtos dirimit.</p>
+            </q>
+            <p>By <hi>E. M.</hi> Gent.</p>
+            <q>
+               <bibl>Pſal. 85. 8.</bibl>
+               <p>I will heare what God the Lord will ſpeake, for hee will ſpeake peace unto his people.</p>
+            </q>
+            <q>
+               <bibl>Pſal. 29. 12.</bibl>
+               <p>Jehovah in diluvio. <hi>The Lord ſitteth upon the flood; The Lord ſitteth King for ever; The Lord will bleſſe his people with peace.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Pſal. 34. 14.</bibl>
+               <p>O pray for the peace of Ieruſalem.</p>
+            </q>
+            <p>LONDON, Printed in the yeare 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111197:2"/>
+            <head>
+               <hi>MERCVRIVS PACIFICVS;</hi> OR, <hi>VOX TVRTVRIS,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">E</seg>Very weeke produceth new <hi>Mercuries,</hi> bringing no better Newes then meerely Meſſa<g ref="char:EOLhyphen"/>ges of the Kingdoms increaſe of Miſeries, relating nothing but the ſad Rumours of a bloody unnaturall Warre, and the fearefull fruits and effects thereof, rapine, ruine, death and deſtruction. This <hi>Mercury</hi> preſents you with a ſoveraigne Medicine to helpe and heaale theſe your miſerable Maladies, preſcri<g ref="char:EOLhyphen"/>bed by the Great Phyſitian of both ſoule and body, and pickt and fetcht out of that Garden
+<pb n="2" facs="tcp:111197:3"/> of his, where the moſt pretious and choyce herbes of Grace, &amp; plants of goodneſſe grow.</p>
+            <p>Vnder the Law, he that was not able to bring a Lambe for Sacrifice, was permitted to offer a Turtle-Dove or young Pigeon: In the Goſpell a mite freely given, renders a poore Widow liberall; Though Almighty God hath not lent me an hand ſo large, yet hee hath vouchſafed me an heart inlarged with as much faithfull loyalty to my Soveraigne, and true love to my Countrey, as any ſubject in the Kingdome, which I ſhall ever be ready really to expreſſe even with the ſacrifice of my life, and all that is mine.</p>
+            <p>In this deplorable time of diſtraction, what good ſubject, true Chriſtian, and hearty well wiſher to the happineſſe of the Com<g ref="char:EOLhyphen"/>mon-wealth, can enjoy an heart not deſir<g ref="char:EOLhyphen"/>ing, an head not deviſing, and an hand not endeavouring to produce ſomething which may conduce to an happy concluſion of theſe unhappy diſſentions. Every hand hath brought ſome ſtickes of ſinne to increaſe this flame; Let every heart and ſoule ſend ſighes and grones to Heaven, &amp; wiſh with <hi>Ieremiah</hi>
+               <pb n="3" facs="tcp:111197:3"/> their heads Fountaines, and their eyes Rivers to poure out the teares of true contrition; For the quenching and extinguiſhing the conſuming fire of theſe Controverſies, that the voyce of the Turtle may againe bee heard in our land, that the Alarmes of warre may no longer ſound in our eares, that there be no more leading into captivity, no more complaining in our ſtreetes, but the Lord may give us beauty for aſhes, and the gar<g ref="char:EOLhyphen"/>ments of gladneſſe for the ſpirit of heavi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>In publiſhing this enſuing tract, I deſire the integrity of my meaning may not bee miſ-interpreted, I preſume not to adviſe or direct, but humbly preſent to the ſerious conſideration of the learned and grave Sages and prudent Pillars of the ſtate of this diſ<g ref="char:EOLhyphen"/>joynted Kingdome, ſuch Texts of holy truth as it hath pleaſed God by his Spirit to direct me unto, and to point out unto me, and ſuch propoſitions as by aſſiſtance of the ſame Spi<g ref="char:EOLhyphen"/>rit I have deduced thence, conceiving them materially conducing to an Accompliſhment of an happy concluſion of the unhappy
+<pb n="4" facs="tcp:111197:4"/> and deſtructive differences now depending betwene his Majeſty and the Parliament I truſt none will be ſo uncharitable as to con<g ref="char:EOLhyphen"/>temne or condemne my purpoſe herein, as too preſumptuous for tendring propoſitions tending to ſo great a bleſſing as peace; nor a<g ref="char:EOLhyphen"/>ny ſo malitiouſly impious as to deride or deſ<g ref="char:EOLhyphen"/>piſe ſo divine a direction becauſe preſented by a weake and ſinfull inſtrument, God is pleaſed oftentimes by men and meanes, in humane imagination, moſt unworthy and infirme to bring to paſſe weighty and won<g ref="char:EOLhyphen"/>derfull matters, <hi>out of the mouth of Babes he or<g ref="char:EOLhyphen"/>deyneth ſtrength, and revealeth to ſuch, what he concealeth from the worldly wiſe and prudent.</hi> Tis as eaſy with God to worke with<g ref="char:EOLhyphen"/>out meanes, as with and againſt them, as by either, tis all one to God be cleane or go waſh; yet we are not ſo much to depend on his will hidden, as to neglect to practiſe his will revealed; ſo to doe is rather a badge of raſh preſuming then any notable courage of faith. Againe good Counſell is not to be va<g ref="char:EOLhyphen"/>lued by the perſon, <hi>ſaepe etiam holitor valde op<g ref="char:EOLhyphen"/>portuna locutas,</hi> the proverbe tells us. And
+<pb n="5" facs="tcp:111197:4"/> ſurely he's ſicke to the ruine of himſelfe that refuſeth a Cordiall, becauſe preſented in a ſpoon of wood, we think not the worſe of Gold becauſe preſented in a bag of leather; Good wine is as wholſome taken in an ear<g ref="char:EOLhyphen"/>then cup, as a Goblet of gold. God to whom the hearts of all men are open, knoweth that my ſole, and principall intention herein, is onely his glory, and the good and Peace of His Majeſty, His Parliament and Kingdoms.</p>
+            <p>And thus much I doe with ſinceritie of heart proteſt, and to uſe the words of Saint <hi>Paul,</hi> Rom. 9. <hi>I ſay the truth in Chriſt I ly not, my conſcience bearing me witneſſe in the Holy Ghoſt, that I have great heavineſse and continuall ſorrow in my heart,</hi> For theſe diſconſolate diviſions in the Kingdome, and could wiſh my ſelfe ſacrificed for the accompliſhment of an hap<g ref="char:EOLhyphen"/>py union between his Majeſtie and Parlia<g ref="char:EOLhyphen"/>ment, and without ceaſing alwayes have made mention thereof in my prayers, be<g ref="char:EOLhyphen"/>ſeeching the God of Peace, who maketh men to be of one minde in an houſe, by ſuch meanes as to his omniſcient wiſedome ſhall ſeeme moſt meet to unite them, and to work
+<pb n="6" facs="tcp:111197:5"/> a ſpeedy reconciliation betweene them; And that after often faſting, Humiliation, &amp; hear<g ref="char:EOLhyphen"/>ty prayers for an happy Accommodation, I was directed unto theſe texts of Holy Scrip<g ref="char:EOLhyphen"/>ture herein ſpecified, as it were by the imme<g ref="char:EOLhyphen"/>diate finger of God, and have received ſince Revelations hereunto conducing, dictated (if I may ſo ſpeake) by Gods good Spirit unto me, which I never yet diſcloſed to any per<g ref="char:EOLhyphen"/>ſon, nor doe I thinke fit at this time to pub<g ref="char:EOLhyphen"/>liſh, but ſhall hereafter (God directing me) being required, declare them. Now theſe things which I write concerning <hi>Lotts,</hi> before God I lye not, I neither received them of man, nor ever till now imparted them to any man, neither was I taught them but by the revelation of God, the Father of lights, who hath continually incited me by the motions of his holy Spirit, to publiſh the ſame, touching and checking my conſcience for concealing, &amp; not ſooner divulging ther<g ref="char:EOLhyphen"/>of: God is my witneſſe, my aime is not vain<g ref="char:EOLhyphen"/>glory, or any other reculiar end for mine own purpoſes, but the Peace and the happineſſe of the Kingdom, and his alone glory, to whom
+<pb n="7" facs="tcp:111197:5"/> onely all honour, power, and praiſe, is to be aſcribed as moſt juſtly due. <hi>I will bleſſe the Lord who hath given me counſell, my reines alſo inſtruct me in the night ſeaſon,</hi> Pſa. 16. 7. <hi>Dominus portio partis meae, &amp; calicis mei, tu ſuſtent as ſortem mea<g ref="char:cmbAbbrStroke">̄</g>. The Lord is the portion of mine inheritance, and of my cup; Thou ſhalt maintaine my Lot.</hi>
+            </p>
+            <p>The firſt Text of holy Writ which Almigh<g ref="char:EOLhyphen"/>ty God was pleaſed to point out unto me, is recorded by the Pen of the Holy Ghoſt, in the hand of a Prince, whoſe wiſedome is war<g ref="char:EOLhyphen"/>ranted by Gods word to be the onely gift of God.</p>
+            <q>
+               <bibl>Proverbs 18. 18.</bibl>
+               <p> 
+                  <hi>Contradictiones comprimit ſors, &amp; inter potentes dijudicat</hi>
+               </p>
+               <p>
+                  <hi>The Lot cauſeth Contentions to ceaſe, and maketh a partition among the mighty,</hi> On which the marginall note in the Bible hath this obſer<g ref="char:EOLhyphen"/>vation; <hi>If a controverſie cannot otherwiſe be de<g ref="char:EOLhyphen"/>cided, it is beſt to caſt Lotts; for that appeaſeth their controverſie, which are ſo ſtout, that other<g ref="char:EOLhyphen"/>wiſe they cannot be pacified.</hi>
+               </p>
+            </q>
+            <p>The 2. text pointed out unto me was this;</p>
+            <q>
+               <bibl>Prov. 16. 33. </bibl>
+               <p>
+                  <hi>In Grenium coniicitur Sors â Iehovâ autem eſt tota ratio ejus,</hi>
+               </p>
+               <p>
+                  <hi>The lott is caſt into the lapp, but the whole diſpoſiti<g ref="char:EOLhyphen"/>on thereof is of the Lord.</hi>
+               </p>
+            </q>
+            <pb n="8" facs="tcp:111197:6"/>
+            <p>Hence we may learne by what power Lotts are governed &amp; diſpoſed. To ſay or be<g ref="char:EOLhyphen"/>leeve they are ordered by fortune is a vaine imagination, by ſpirits or divels a ſuperſtiti<g ref="char:EOLhyphen"/>ous ſuppoſition, by the heaven or the ſtarres a ridiculous cogitation, <hi>A Deo ſolum temperan<g ref="char:EOLhyphen"/>tur, They are wholly, and onely governed by God.</hi> Hence Saint <hi>Auguſtine</hi> the moſt learned, and moſt orthodox of the Fathers, preventing an objection which might ariſe concerning the uſe of Lotts, that it may ſeeme to be a tempt<g ref="char:EOLhyphen"/>ing of God: ſaith <hi>Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vero periculum eſt ne vi<g ref="char:EOLhyphen"/>deamur tentare Deum, is enim eſt, qui ſortes dirigit.</hi>
+            </p>
+            <p>Now three things are principally conſiderably in Lotts.
+<list>
+                  <item>1. The nature of them according to their deſcription. in Scripture, the Fathers and other writers.</item>
+                  <item>2. The lawfulneſſe of them ſet forth by the Antiquity, Authority and In<g ref="char:EOLhyphen"/>ſtitution thereof. Proved by preſidents in the old and new Teſtament by Gods direction, command and approbation.</item>
+                  <item>3. The uſe thereof
+<list>
+                        <item>1. The thing, matter, or cauſe, about or concerning which they are to be uſed.</item>
+                        <item>2. The time whe<g ref="char:cmbAbbrStroke">̄</g> to be uſed.</item>
+                        <item>3. The manner how to be u<g ref="char:EOLhyphen"/>ſed.</item>
+                     </list>
+                  </item>
+               </list> 
+            </p>
+            <p>Concerning the nature of Lotts, <hi>ab effectu, They cauſe contentions to ceaſe, and determine dif<g ref="char:EOLhyphen"/>ferences
+<pb n="9" facs="tcp:111197:6"/> betweene the mighty,</hi> Prov. 18. 18. Saint <hi>Auguſtine</hi> upon pſal. 30. ſaith, <hi>Sortes nihil aliud eſſe, qua<g ref="char:cmbAbbrStroke">̄</g> in dubitatione humana, divinae voluntatis indicium.</hi> Lotts are nothing elſe but a decla<g ref="char:EOLhyphen"/>ration of Gods divine pleaſure in humane dubitation: a divine reſolution of humane doubts. <hi>Peter Martyr</hi> to the ſame purpoſe ſaith, <hi>Sortiri nihil aliud eſſe, qnam aliquid agere, ex cujus even tu rem incognita<g ref="char:cmbAbbrStroke">̄</g> poſſumus deprehen<g ref="char:EOLhyphen"/>dere,</hi> Caſting lotts is the meanes from whoſe event, wee diſcover unknowne and hid<g ref="char:EOLhyphen"/>den things. <hi>Aretius</hi> and other Interpretors upon the firſt of the <hi>Acts,</hi> affirme the ele<g ref="char:EOLhyphen"/>ction of <hi>Matthias</hi> into the place of an Apoſtle by lott, to be a divine voyce, and a divine choyce; <hi>Quod ſors cecidit ſuper Matthiam divinae vocis inſtar eſt, ut ille non minus à Deo electus habe<g ref="char:EOLhyphen"/>retur quam reliqui undecem.</hi>
+            </p>
+            <p>
+               <hi>Secondly, concerning the lawfulneſſe of the uſing of Lots.</hi>
+            </p>
+            <p>The world is a circle, God as it were the center of that circle; The wayes of men are lines deduced from this center; If the event of <hi>Lotts</hi> bee not expected of divels nor of ſtars, nor of any force of For<g ref="char:EOLhyphen"/>tune,
+<pb n="10" facs="tcp:111197:7"/> but looked and prayed for to bee dire<g ref="char:EOLhyphen"/>cted by God, as before is ſhewed, and by God iuſtituted and appointed, as herein hereaf<g ref="char:EOLhyphen"/>ter will appeare; Certainly 'tis lawfull to uſe Lotts; That God hath appointed the uſe of Lotts to be a meanes of conſulting his ſacred Majeſty for determining of differences of in explicable difficulty in humane underſtand<g ref="char:EOLhyphen"/>ing, appeareth not onely by thoſe places in the 18. and 16. of the <hi>Proverbs,</hi> but 'tis preſi<g ref="char:EOLhyphen"/>dented by many ſpeciall Examples practiſed and uſed by Gods expreſſe direction and com<g ref="char:EOLhyphen"/>mand in his holy Word, <hi>Iudaei jubbente Domino</hi> 
+               <note place="margin">
+                  <hi>Pet. Mart. de Sort. cap.</hi> 7.</note> 
+               <hi>in rebus graviſsimis uſi ſunt ſortibus;</hi> The land of promiſe was divided to the children of Iſra<g ref="char:EOLhyphen"/>el by Lott, <hi>Numb. 26. 55. Ioſ.</hi> 14. and 15. <hi>chapt.</hi> and <hi>Achan</hi> thereby diſcovered with the accurſed thing to be the troubler of Iſrael, <hi>Ioſ.</hi> 7. The ſcape Goat diſcerned and diſmiſſed by lott, <hi>Levit.</hi> 16. The offices of Prieſthood placed by lott; <hi>Zachary</hi> his lott was to burne Incenſe, <hi>Luk. 1. 9. Ionathan</hi> and <hi>Ionas</hi> deprehended by lott. <hi>Saul</hi> the firſt King of the Iewes elected by lott, 1 <hi>Sam.</hi> 10. and <hi>Matthias</hi> elected to his Apoſtleſhip by lott, 1 <hi>Act.</hi> 1. That God hath
+<pb n="11" facs="tcp:111197:7"/> appointed the deciding of deepe and doubt<g ref="char:EOLhyphen"/>full differences by lott, is not <hi>Solomons</hi> ſole or ſingle poſition we ſee, but a truth confirmed by many weighty and worthy preſidents in holy Writ, And that the uſe of lotts is a divine direction inſtituted by God himſelfe, and accordingly made uſe of by the greateſt, gra<g ref="char:EOLhyphen"/>veſt, and wiſeſt Kings, Princes, Prophets and Apoſtles, in matters both ſpirituall and tem<g ref="char:EOLhyphen"/>porall of much importance, and caſes of greateſt conſequence.</p>
+            <p>The authority of lotts being confirmed, it remaineth that the manner of uſing thereof be in ſome part explained, and application made according to the preſent purpoſe, For although this manner of conſulting, and de<g ref="char:EOLhyphen"/>ſiring Gods direction for concluding of Controverſies may lawfully, yet it is not ha<g ref="char:EOLhyphen"/>ſtily, raſhly, or unadviſedly to bee underta<g ref="char:EOLhyphen"/>ken but with great reverence, ſingular piety, and moſt fervent prayers.</p>
+            <p>We may not uſe Lotts in affaires ordinary, but in caſes of neceſſity, when as the buſineſſe cannot otherwiſe be tranſacted; then mans
+<pb n="12" facs="tcp:111197:8"/> extremity is Gods opportunity, <hi>Cum Ratio ac conſilium humanum non amplius locum habent, nec longius progredi poſſent tunc ſortes adhibere, &amp;c.</hi> When humane Counſels are puzled, hu<g ref="char:EOLhyphen"/>mane reaſon non pluſt, and all humane en<g ref="char:EOLhyphen"/>deavours prove fruitleſſe; <hi>Tunc modus hic con<g ref="char:EOLhyphen"/>ſulendi Deum adhibendus eſt,</hi> then to commit the cauſe to Gods determination by Lott, will doubtleſſe prove moſt profitable. <hi>Neceſsitas autem judicanda eſt ſi quid occurrat, &amp;c.</hi> That <note place="margin">Peter Mart. cap. 7. de ſor<g ref="char:EOLhyphen"/>tibus.</note> is to be adjudged neceſſity where any diffe<g ref="char:EOLhyphen"/>rence ariſing, the compoſing whereof may much conduce to the glory of God, the edification of the Church, and the prevention of ſome great evill, which by humane Pru<g ref="char:EOLhyphen"/>dence cannot bee otherwayes compoſed, or if it might, yet wherein veterate ma<g ref="char:EOLhyphen"/>lice, envie, and other evils and inconvenien<g ref="char:EOLhyphen"/>ces cannot otherwiſe bee declined, then the Lords divine direction by lott is moſt proper to be uſed for determination thereof.</p>
+            <p>God had appointed, and annoynted <hi>Saul</hi> by the hand of <hi>Samuel</hi> to be King of Iſrael, yet to take off the ſuſpition of partiality, or affe<g ref="char:EOLhyphen"/>ction, which might have been ſuppoſed by
+<pb n="13" facs="tcp:111197:8"/> the people to be in <hi>Samuell</hi> towards <hi>Saul,</hi> and alſo to prevent the ſedition, and diſſention which might have ariſen among the tribes if the election had beene left to the ſuffrages of the people, (each 'tis probable would have beene willing to have exalted his owne tribe, and <hi>Saul</hi> who though the loftieſt in ſtature yet of the loweſt tribe and family, ſhould not have beene ſent for from ſeeking his Fathers Aſſes to ſit as ſupreame, and ſway the ſcepter over ſo proud and potent a peo<g ref="char:EOLhyphen"/>ple) God performes his owne purpoſe, prevents diviſion among the tribes, and cleeres <hi>Samuell</hi> of that aſpertion, which the people might have caſt on him, and directs the election to be made by <hi>Lott,</hi> which the Prophet accordingly performes, wherein we may note the excellent faith of the prophet, who after he had annointed <hi>Saul</hi> to be King, yet feares not to commit the election to lott; and admire the riches of the wiſdome of the only wiſe God, who directed ſuch a way to avoide contention.</p>
+            <p>To bring my diſcourſe neerer home, from <hi>Iſrael</hi> to <hi>England,</hi> how dolefull are our diſſen<g ref="char:EOLhyphen"/>tions? how lamentable our diviſions? and
+<pb n="14" facs="tcp:111197:9"/> how much a determination thereof is to be deſired? how great a neceſſity there is of a ſpeedy reconciliation betweene the King and Parliament, I wiſh wofull experience did not too plainly manifeſt. Have not all hu<g ref="char:EOLhyphen"/>mane endeavours hitherto beene fruſtrated? how many Petitions, Propoſitions, Meſſages, Anſwers, Declarations, Remonſtrances, and Proteſtations, have paſſed, to beget a right underſtanding betweene the King and his Parliament? Yet all have rather exaſperated then appeaſed, rather increaſed then any way extinguiſhed the flame of this contention; How many dayes and monthes of humilia<g ref="char:EOLhyphen"/>tion, have beene ſolemnized? how heartily and earneſtly hath the Lord of Heaven beene ſolicited, and importuned, by prayer faſting and mourning? and which is moſt deplora<g ref="char:EOLhyphen"/>ble, how much blood, unnaturally ſpilt? how many barbarous tragedies acted? how many thouſands (many of them not of the meaneſt) miſerably maſſacred and murthered? and yet the raging ſword not ſheathed, nor theſe deſtructive diviſions determined, no Balme is found in <hi>Gilead,</hi> no Phiſitian to heale the gaſping wounds of this bleeding Kingdome.</p>
+            <pb n="15" facs="tcp:111197:9"/>
+            <p>Now the Lord hath ſent his word to heale us, he maketh wars to ceaſe in all the earth, why ſhould not then this pacificall proverbe and ſalutiferous ſentence of wiſe <hi>Salomon</hi> be now ſeaſonably received into con<g ref="char:EOLhyphen"/>ſideration? why ſhould not that divine di<g ref="char:EOLhyphen"/>rection delivered, deviſed. and diſpoſed by God himſelfe, and practiſed by his ſer<g ref="char:EOLhyphen"/>vants, Kings, Princes, prophets, and Apo<g ref="char:EOLhyphen"/>ſtles be now uſed, for the ceaſing of theſe con<g ref="char:EOLhyphen"/>ſuming contentions betweene the King and his parliament?</p>
+            <p>Forces are continually raiſed on both ſides, and ſtratagems daily deviſed for ruine and deſtruction, whereas both pollicy and pow<g ref="char:EOLhyphen"/>er, might be better imployed to procure a comfortable reconciliation. For the happy ac<g ref="char:EOLhyphen"/>compliſhment, whereof, God hath preſcri<g ref="char:EOLhyphen"/>bed this way of his owne inſtitution, where<g ref="char:EOLhyphen"/>by he may give the Iudgement according to the iuſtice of the cauſe without reſpect of perſons; <hi>caſt your burthen upon Him, devolve</hi> 
+               <note place="margin">
+                  <hi>Pſa:</hi> 37. 3. 6.</note> 
+               <hi>ſuper Iehovam viam tuam: Committ your waies unto the lord, and truſt in him and he ſhall bring it to paſſe, he ſhall bring forth your righteouſneſſe as the light, and your Iudgement as the noone day.</hi>
+            </p>
+            <p n="2">
+               <pb n="16" facs="tcp:111197:10"/>2. We muſt expect the event of the lotts from God alone, <hi>Proverbs.</hi> 16. 33. the lott is caſt into the lapp, but the whole diſpoſition thereof is of the Lord. <hi>So then he that doth not feare the iuſtice of his cauſe, needs not doubt the iudgement of his God in diſpoſing thereof by lotts, non enim re quieſcet virga improbitatis ſuper ſortem Iuſtorum,</hi> the rod of the wicked ſhall not reſt upon the lott of the righteous Pſalme. 125. v. 3.</p>
+            <p n="3">3 Wee muſt abandon all uncharitable con<g ref="char:EOLhyphen"/>ceits, and all dishonourable deceites <hi>Pſal. 5. 6. The lord will abhorre the deceitfull man and ſuch as ſpeake leaſing,</hi> no mentall reſervation of malice muſt be reteined, no rancorous core of revenge muſt remayne, nor any preceding paſſages of malevolence or envy, continue in the minde or memory.</p>
+            <p n="4">4. Wee muſt withall poſſible piety, religion, and reverence call upon God in hearty pray<g ref="char:EOLhyphen"/>er for his direction in, and his bleſſing on, our endeavours; At the election of <hi>Saul,</hi> the peo<g ref="char:EOLhyphen"/>ple ('tis ſaid) ſtood all before the Lord, xpo<g ref="char:EOLhyphen"/>poſitors render it, praying. At the election of <hi>Matthias</hi> to his Apoſtleſhip, the Apoſtles joy<g ref="char:EOLhyphen"/>ned in prayer.</p>
+            <p>If a ſolemne day of humiliation, faſting and
+<pb n="17" facs="tcp:111197:10"/> prayer might be ſet apart throught the whole Kingdome, humble and hearty ſupplicati<g ref="char:EOLhyphen"/>ons ſent to heaven, if the Kings Majeſty, the Parliament, Prophets, Miniſters, and People, (howſoever diſ-jointed at this preſent in their opinions and actions) would all joyn in their prayers and affections to the Lord of hoſts <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſearcher and knower of all hearts; and although they diſtruſt each other, yet would truſt the only juſt God, and com<g ref="char:EOLhyphen"/>mit the judgement of their great cauſe to his hands, who only can and muſt determine it, implore his mercifull and powerful ayde and aſſiſtance, who is <hi>wonderfull in counſell, and excellent in working</hi> to decide this moſt un<g ref="char:EOLhyphen"/>happy diſſention according to his owne di<g ref="char:EOLhyphen"/>vine direction by Lott, why ſhould it be doubted, but that our good Lord would ſhew his paternal pitty &amp; mercy to this Nation, and vouchſafe an happy union. God hath not for<g ref="char:EOLhyphen"/>gotten to be gratious, his mercy is not gone for ever, his compaſſions never faile. Hee that feeds the Ravens, clothes the Lillyes, takes care even for Sparrowes, ſhall he not be entreated to magnifie his mercy in taking this matter of ſuch weighty importance into his owne
+<pb n="18" facs="tcp:111197:11"/> hands, in delivering his people by his wiſe<g ref="char:EOLhyphen"/>dome and omnipotency from deſtruction o<g ref="char:EOLhyphen"/>therwiſe inevitable. <hi>The Lord will ariſe and have mercy upon Sion, for the time to have mercie thereon is come, that hee may heare the mourning of the priſoner, and deliver the children appointed for death.</hi>
+            </p>
+            <p>Hee will bring to paſſe his owne worke in his owne way, and declare by caſting of Lotts which part he hath choſen, and whoſe propoſitions and purpoſes moſt conduce to his glory, the honour and happineſſe of the Kings Majeſtie and his Poſterity, the eſta<g ref="char:EOLhyphen"/>bliſhment of Truth and Peace in the Church and Common-wealth. <hi>Iehovah Iireh,</hi> the <note place="margin">Gen. 22. 14.</note> Lord will be ſeene in the Mount of his mer<g ref="char:EOLhyphen"/>cy, and provide his people a gratious way of deliverance from deſtruction and deſola<g ref="char:EOLhyphen"/>tion; Hee will prevent the King with the bleſſings <note place="margin">Pſal. 21. 3.</note> of Peace, and ſet a Crowne of pure gold upon his head; And though his people <note place="margin">Pſal. 68. 13.</note> and Church have lyen among the pots of black darkneſſe and affliction, yet ſhall they ſhine as the wings of a Dove covered with ſilver, and her feathers with yellow Gold, And all men to Gods eternall glory will
+<pb n="19" facs="tcp:111197:11"/> confeſſe this to bee onely the Lords doing, and a moſt wonderfull worke of his infinite mercy.</p>
+            <p>The tryall by Lotts is
+<list>
+                  <item>1. the moſt proper way,
+<list>
+                        <item>1. becauſe both parts have appealed to God. and made it his cauſe, both profeſſe the main<g ref="char:EOLhyphen"/>tenance of the ſame matters, therefore God is the moſt competent Iudge.</item>
+                        <item>2. This way is Gods owne direction, other meanes hitherto uſed have failed and beene fruſtrate, many devices are in the heart of man, but the counſell of the Lord that ſhall ſtand.</item>
+                     </list>
+                  </item>
+                  <item>2. the cleereſt way, and moſt infalli<g ref="char:EOLhyphen"/>ble,
+<list>
+                        <item>1. Becauſe Almighty God is a moſt juſt Iudge, there can be no colluſion or corrupti<g ref="char:EOLhyphen"/>on in his judgement: All partiall and de<g ref="char:EOLhyphen"/>ceitfull ſiding and dealing, will be prevented and excluded.</item>
+                        <item>2. Becauſe God is the ſearcher of all hearts, and cannot be deceived, and moſt upright in Iudgement, and hee will give to <hi>Caſer</hi> the things that are <hi>Caeſars,</hi> but will not endure his own glory ſhould be eclipſed, but will have his truth ſtill maintained, and all Chriſtian duties to his ſacred Majeſtie per<g ref="char:EOLhyphen"/>formed.</item>
+                     </list>
+                  </item>
+                  <item>3. The hap<g ref="char:EOLhyphen"/>pieſt way,
+<list>
+                        <item>1. Becauſe the further effuſion of blood will hereby be prevented, a thing much to be deſired, laboured and prayed for.</item>
+                        <item>2. God on all ſides will by this meanes be glorified, and a bleſſed Peace hereby produ<g ref="char:EOLhyphen"/>ced, which the God of Peace for his Sonne our Saviours ſake, the Prince of Peace, by his holy Spirit of Peace vouchſafe to grant, Amen.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <pb n="20" facs="tcp:111197:12"/>
+               <p>In Bellis civillibus omnia ſunt miſera, ſed nihil mi<g ref="char:EOLhyphen"/>ſerius quam ipſa victoria, quoe etiamſi ad meli<g ref="char:EOLhyphen"/>ores venit, eos tamen ferociores reddit, </p>
+               <bibl>
+                  <hi>Tull. ad M. Marc.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Sapientis non eſt velle certare, &amp; periculo ſe velle committere, quia &amp; vincere non eſt in poteſtate noſtra &amp; anceps eſt omne certamen, </p>
+               <bibl>
+                  <hi>Lact. lib.</hi> 6.</bibl>
+            </q>
+            <q>
+               <p>Tale bonum eſt bonum Pacis, ut in rebus creatis nil gratioſius ſoleat audiri, nil delectabilius concu<g ref="char:EOLhyphen"/>piſci, &amp; nihil utilius poſsideri: Spiritus enim humanus nunquam vivificat membra niſi fue<g ref="char:EOLhyphen"/>rint unita: Sic ſpiritus ſanctus nunquam vivifi<g ref="char:EOLhyphen"/>cat membra Eccleſiae, nifi fuerint in pace unita, </p>
+               <bibl>
+                  <hi>Auguſtin de Civitat. Dei.</hi>
+               </bibl>
+            </q>
+            <p>I ſhall conclude with theſe Texts of holy Writ,</p>
+            <q>
+               <p>God is not the God of Confuſion, but of Peace, </p>
+               <bibl>1 <hi>Cor.</hi> 14. 33.</bibl>
+            </q>
+            <q>
+               <p>God hath called us to Peace, </p>
+               <bibl>1 <hi>Cor.</hi> 7. 15.</bibl>
+            </q>
+            <q>
+               <p>Let us therefore follow after the things that make for peace, and things wherewith we may edifie one another,
+<bibl>
+                     <hi>Rom. 14. 19.</hi>
+                  </bibl> not ruine and deſtroy one another.</p>
+            </q>
+            <q>
+               <p>Follow peace, &amp;c. without which no man ſhall ſee God, </p>
+               <bibl>
+                  <hi>Heb.</hi> 12. 14.</bibl>
+            </q>
+            <q>
+               <p>Live in peace, and the God of love and peace ſhall be with you, </p>
+               <bibl>2 <hi>Cor.</hi> 13. 11,</bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
